@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+chromadb
+sentence-transformers
+moviepy
+python-dotenv
+pandas
+numpy
+reportlab
+imageio-ffmpeg
