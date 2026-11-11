@@ -1,6 +1,18 @@
 # 🎬 CineDigest — Movie Review & Summary Platform
 
+[![Live Application](https://img.shields.io/badge/Live_App-cinedigest.onrender.com-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://cinedigest.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshankbd/CINEdIGEST)
+
+> **Live Website:** [https://cinedigest.onrender.com/](https://cinedigest.onrender.com/)
+
 An AI-powered platform that transforms any movie into a comprehensive review, chapter breakdown, and downloadable PDF report — designed for busy people who don't have time to watch full 3-hour films.
+
+---
+
+## 🌐 Live Access
+The platform is deployed live on Render:
+- 🔗 **Direct URL**: [https://cinedigest.onrender.com/](https://cinedigest.onrender.com/)
+- Fully dynamic: Supports direct video upload (up to 5 GB) or searching any movie title directly for instant analysis.
 
 ---
 
@@ -8,11 +20,11 @@ An AI-powered platform that transforms any movie into a comprehensive review, ch
 
 | # | Feature | Description |
 |---|---------|-------------|
-| 1 | **Movie Upload** | Upload any video file (MP4, MKV, AVI, MOV, WEBM) |
+| 1 | **Movie Upload & Name Search** | Upload large movie files (up to 5 GB) OR search any movie by title |
 | 2 | **Audio Extraction** | Automatic 16kHz mono WAV extraction via FFmpeg |
-| 3 | **AI Transcription** | Gemini 2.5 Flash transcribes with timestamps & speaker identification |
-| 4 | **Chunked Processing** | Handles 3-hour movies by splitting audio into 10-min chunks |
-| 5 | **Story Chapters** | AI generates 10-15 sequential story chapters with timestamps |
+| 3 | **AI Transcription** | Gemini multimodal AI transcribes with timestamps & speaker identification |
+| 4 | **Chunked Processing** | Handles 3-hour movies by splitting audio into sequential chunks |
+| 5 | **Story Chapters** | AI generates sequential story chapters with timestamps |
 | 6 | **Scene Notes** | Comprehensive topic-by-topic notes covering every scene |
 | 7 | **Movie Review** | Professional review with plot synopsis, character analysis, themes |
 | 8 | **Executive Summary** | 300-500 word summary for quick understanding |
